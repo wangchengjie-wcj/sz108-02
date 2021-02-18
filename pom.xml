@@ -9,8 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <!--    父工程的打包方式-->
     <!--    父工程的打包方式-->
-    <!--    父工程的打包方式-->
-    <!--    父工程的打包方式-->
     <packaging>pom</packaging>
 
     <modules>
